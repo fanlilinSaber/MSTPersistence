@@ -5,6 +5,5 @@
 
 2. git reset
 
-3. 提交一
+3. 测试 git reset --soft 版本库id
 
-4. 提交二
