@@ -5,5 +5,4 @@
 
 2. git reset
 
-3. 测试 git reset --soft 版本库id
-
+3. 合并之前的代码
